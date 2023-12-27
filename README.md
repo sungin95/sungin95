@@ -39,8 +39,9 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
+    <br>
+    <!-- algorithm -->
+    <p><strong>algorithm</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
