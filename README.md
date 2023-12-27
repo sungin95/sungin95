@@ -53,8 +53,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrkehrud)](https://solved.ac/dlrkehrud/)
 
-공부한 것을 정리하기 위한 블로그
-https://plants-growth.tistory.com/
+![공부한 것을 정리하기 위한 블로그](https://plants-growth.tistory.com/)
 
 
 
