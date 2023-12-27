@@ -3,10 +3,10 @@
 <div align="middle">
 -------
 
-[![sungin95's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![sungin95's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/sungin95/github-readme-stats)
  
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95)](https://github.com/sungin95/github-readme-stats)
 <br>
 
 ## 🔨 I've used 🔨
