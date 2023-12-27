@@ -2,11 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sungin95's+GitHub!👋)](https://git.io/typing-svg)
 <div align="middle">
 -------
-
-[![sungin95's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/sungin95/github-readme-stats)
- 
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungin95)](https://github.com/sungin95/github-readme-stats)
 <br>
 
 ## 🔨 I've used 🔨
