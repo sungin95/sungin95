@@ -52,4 +52,6 @@
 
 [공부한 것을 정리하기 위한 블로그](https://plants-growth.tistory.com/)
 
+[노션 포트폴리오](https://cake-cheek-9dd.notion.site/1bb4102dd71644aca741c6bb44a36462)
+
 </div>   
